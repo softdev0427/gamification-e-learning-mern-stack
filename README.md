@@ -1,44 +1,27 @@
-<<<<<<< HEAD
-# Starter Antd Admin (Crud & auth) Mern App (Express.js / React / Redux / MongoDB)
+
+# Gamification E - Learning System (Crud & auth) Mern App (Express.js / React / Redux / MongoDB)
 
 ```
-Don't forget please to ⭐ this repo if you like this Starter Antd Admin!
+Don't forget please to ⭐ this repo if you like this website!
 ```
 
 
 ![starter-antd-admin-crud-auth-mern-crud-auth](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/opp4yj177dizyaosah0o.png)
 
 
-## CRM Starter Mern Antd Admin App 
+## E-learning include moon-race quiz 
 
-I build Starter Crm App based on mern stack (Express.js / MongoDb / React / Redux / AntD) with generic crud and auth , admin management .
-
-**Live App Demo** : [https://antd-admin-yle2f.ondigitalocean.app](https://antd-admin-yle2f.ondigitalocean.app)
-
-`username : admin@demon.com
-password : admin123`
+I build Starter Crm App based on mern stack (Express.js / MongoDb / React / Redux) with generic crud and auth , admin management .
 
 ```
 ## Setup backend
 
 1) just create MongoDB Atlas accout database url 
-2) change this file name .variables.env.tmp to  .variables.env
-3) open  .variables.env and paste your MongoDB url here :  DATABASE=your-mongodb-url
-4) npm install
-5) npm setup
-
-## Setup frontend
-1) cd frontend 
-2) npm install
-3) change api config to loaclhost in this : src/frontend/src/config/serverApiConfig.js
- 
+2) open  .variables.env and paste your MongoDB url here :  DATABASE=your-mongodb-url
+3) npm install
 
 ## start server
-1) npm start
-
-## start react app
-1) cd frontend
-2) npm start
+  npm start
 
 ```
 
@@ -53,7 +36,7 @@ password : admin123`
 
 ### Frontend :
 
-* The Frontend is built with React.js , [Ant Design (Antd)](https://ant.design/), and Redux , Redux-thunk.
+* The Frontend is built with React.js , and Redux , Redux-thunk.
 * Generic Crud Component (Module) (Create / Read / Update / Delete)
 * Admin (User) Management Module
 * Auth Component Login / Logout
