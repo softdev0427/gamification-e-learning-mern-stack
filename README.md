@@ -20,7 +20,7 @@ I build Starter Crm App based on mern stack (Express.js / MongoDb / React / Redu
 2) open  .variables.env and paste your MongoDB url here :  DATABASE=your-mongodb-url
 3) npm install
 
-## start server
+# start server
   npm start
 
 ```
