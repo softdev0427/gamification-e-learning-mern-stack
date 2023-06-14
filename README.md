@@ -61,6 +61,3 @@ password : admin123`
 * Not Found Page
 * Beautiful UI Dashboard
 
-=======
-# gamification-e-learning-mern-stack
->>>>>>> origin/main
