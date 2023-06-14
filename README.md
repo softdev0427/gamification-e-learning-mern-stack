@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Starter Antd Admin (Crud & auth) Mern App (Express.js / React / Redux / MongoDB)
 
 ```
@@ -60,3 +61,6 @@ password : admin123`
 * Not Found Page
 * Beautiful UI Dashboard
 
+=======
+# gamification-e-learning-mern-stack
+>>>>>>> origin/main
